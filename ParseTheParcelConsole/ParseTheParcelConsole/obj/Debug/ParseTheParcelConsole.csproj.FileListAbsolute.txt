@@ -1,0 +1,7 @@
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsole\bin\Debug\ParseTheParcelConsole.exe.config
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsole\bin\Debug\ParseTheParcelConsole.exe
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsole\bin\Debug\ParseTheParcelConsole.pdb
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsole\obj\Debug\ParseTheParcelConsole.csprojAssemblyReference.cache
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsole\obj\Debug\ParseTheParcelConsole.csproj.CoreCompileInputs.cache
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsole\obj\Debug\ParseTheParcelConsole.exe
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsole\obj\Debug\ParseTheParcelConsole.pdb

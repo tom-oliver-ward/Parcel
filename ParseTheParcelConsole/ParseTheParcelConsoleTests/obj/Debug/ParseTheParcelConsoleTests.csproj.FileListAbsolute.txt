@@ -1,0 +1,17 @@
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsoleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsoleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsoleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsoleTests\bin\Debug\ParseTheParcelConsoleTests.dll
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsoleTests\bin\Debug\ParseTheParcelConsoleTests.pdb
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsoleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsoleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsoleTests\bin\Debug\ParseTheParcelConsole.exe
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsoleTests\bin\Debug\ParseTheParcelConsole.pdb
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsoleTests\bin\Debug\ParseTheParcelConsole.exe.config
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsoleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsoleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsoleTests\obj\Debug\ParseTheParcelConsoleTests.csprojAssemblyReference.cache
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsoleTests\obj\Debug\ParseTheParcelConsoleTests.csproj.CoreCompileInputs.cache
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsoleTests\obj\Debug\ParseTheParcelConsoleTests.csproj.CopyComplete
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsoleTests\obj\Debug\ParseTheParcelConsoleTests.dll
+C:\Users\tom2s\Documents\GitHub\parsetheparcel-thomas-ward\ParseTheParcelConsole\ParseTheParcelConsoleTests\obj\Debug\ParseTheParcelConsoleTests.pdb
